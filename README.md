@@ -6,11 +6,11 @@ Gram-AMP-ML/
 │   ├── group            
 │   └── matrix1     
 │
-├── 2.模型/                # Model 2: Physicochemical Property Features (Best Model)
+├── 2.模型/                
 │   ├── group            
 │   └── matrix2     
 │
-├── 3.模型3/               # Model 3: Hybrid Features (3-mer + Physicochemical)
+├── 3.模型3/               
 │   ├── group        
 │   └── matrix3
 ├── ML_predict.R
