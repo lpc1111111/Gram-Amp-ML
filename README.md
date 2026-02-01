@@ -14,3 +14,17 @@ Gram-AMP-ML/
 │   ├── group
 │   └── matrix3
 ├── ML_predict.R
+
+
+Requirements
+R (≥ 4.0)
+
+Required R packages:所需的 R 包：
+randomForest
+e1071
+party
+rpart
+
+Notes：
+Input data are provided as feature matrices (matrix*) and corresponding group labels (group).
+File paths in ML_predict.R are relative; please keep the directory structure unchanged.
