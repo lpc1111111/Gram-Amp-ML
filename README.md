@@ -2,7 +2,7 @@
 Machine learning predicts differences in the activity of AMP between Gram-positive and Gram-negative bacteria.
 
 Gram-AMP-ML/
-├── 1.模型1/               # Model 1: 3-mer Frequency Features
+├── 1.模型1/               
 │   ├── group            
 │   └── matrix1     
 │
